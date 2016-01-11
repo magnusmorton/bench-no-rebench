@@ -1,11 +1,9 @@
 pycket-c wc.rkt sumcol-20000 >> /scratch1/magnus/trace_output/wc.rkt.out 2>&1
+pycket-c wc.rkt sumcol-20000 >> /scratch1/magnus/trace_output/wc.rkt.out 2>&1
+pycket-c wc.rkt sumcol-20000 >> /scratch1/magnus/trace_output/wc.rkt.out 2>&1
 pycket-c nsievebits.rkt 12 >> /scratch1/magnus/trace_output/nsievebits.rkt.out 2>&1
 pycket-c nsievebits.rkt 12 >> /scratch1/magnus/trace_output/nsievebits.rkt.out 2>&1
 pycket-c nsievebits.rkt 12 >> /scratch1/magnus/trace_output/nsievebits.rkt.out 2>&1
-pycket-c nsievebits.rkt 12 >> /scratch1/magnus/trace_output/nsievebits.rkt.out 2>&1
-pycket-c fasta.rkt 100000000 >> /scratch1/magnus/trace_output/fasta.rkt.out 2>&1
-pycket-c fasta.rkt 100000000 >> /scratch1/magnus/trace_output/fasta.rkt.out 2>&1
-pycket-c fasta.rkt 100000000 >> /scratch1/magnus/trace_output/fasta.rkt.out 2>&1
 pycket-c random.rkt 250000000 >> /scratch1/magnus/trace_output/random.rkt.out 2>&1
 pycket-c random.rkt 250000000 >> /scratch1/magnus/trace_output/random.rkt.out 2>&1
 pycket-c random.rkt 250000000 >> /scratch1/magnus/trace_output/random.rkt.out 2>&1
@@ -30,9 +28,6 @@ pycket-c nestedloop.rkt 35 >> /scratch1/magnus/trace_output/nestedloop.rkt.out 2
 pycket-c binarytrees.rkt 17 >> /scratch1/magnus/trace_output/binarytrees.rkt.out 2>&1
 pycket-c binarytrees.rkt 17 >> /scratch1/magnus/trace_output/binarytrees.rkt.out 2>&1
 pycket-c binarytrees.rkt 17 >> /scratch1/magnus/trace_output/binarytrees.rkt.out 2>&1
-pycket-c fasta-generic.rkt 100000000 >> /scratch1/magnus/trace_output/fasta-generic.rkt.out 2>&1
-pycket-c fasta-generic.rkt 100000000 >> /scratch1/magnus/trace_output/fasta-generic.rkt.out 2>&1
-pycket-c fasta-generic.rkt 100000000 >> /scratch1/magnus/trace_output/fasta-generic.rkt.out 2>&1
 pycket-c sieve.rkt 50000 >> /scratch1/magnus/trace_output/sieve.rkt.out 2>&1
 pycket-c sieve.rkt 50000 >> /scratch1/magnus/trace_output/sieve.rkt.out 2>&1
 pycket-c sieve.rkt 50000 >> /scratch1/magnus/trace_output/sieve.rkt.out 2>&1
